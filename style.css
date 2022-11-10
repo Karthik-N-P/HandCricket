@@ -1,0 +1,67 @@
+/* place class container in middle of entire screen */
+html,body{
+ 
+  height: 100%;
+    
+
+  
+}
+.r{
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.choice{
+  
+  display: flex;
+  align-items: center;
+    justify-content: center;
+  width: 35vh;
+  height: 20vh;
+  border: 1px dotted black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+ justify-content: space-between;
+ padding: 5px 5px 5px 5px;
+ margin-right: 80px;
+}
+.choice #btn{
+  width: 10vh;
+  height: 8vh;
+
+
+}
+.score{
+  width: 80vh;
+  height: 20vh;
+  border: 1px dotted black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+ justify-content: space-between;
+ padding: 1vh  5vh;
+ margin-right: 30px;
+}
+.score .btn{
+  width: 15vh;
+  height: 6vh;
+
+
+}
+
+.scorebar{
+  padding: 30px 30%;
+  border: solid;
+  align-items: center;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
