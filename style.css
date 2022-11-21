@@ -109,7 +109,7 @@ html,body{
   width: 50vh;
   height: 60vh;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
  justify-content: space-between;
  padding: 1vh  5vh;
