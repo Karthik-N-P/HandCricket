@@ -9,7 +9,7 @@ html,body{
 
 #target{
  position: relative;
- left: 35%;
+ left: 28%;
  top:0%;
  font-size: 40px;
  
@@ -45,7 +45,7 @@ html,body{
 }
 .score{
   width: 100vh;
-  height: 90vh;
+  height: 100vh;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
